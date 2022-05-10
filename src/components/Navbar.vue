@@ -8,13 +8,13 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active text-white" aria-current="page" href="/randomayat">Ayat Acak</a>
+            <Router-link class="nav-link active text-white" aria-current="page" to="/randomayat">Ayat Acak</Router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white" href="/imlaei">Imlaei Simple</a>
+            <Router-link class="nav-link text-white" to="/imlaei">Imlaei Simple</Router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white" href="/mushafindopak">Indopak</a>
+            <Router-link class="nav-link text-white" to="/mushafindopak">Indopak</Router-link>
           </li>
         </ul>
       </div>
