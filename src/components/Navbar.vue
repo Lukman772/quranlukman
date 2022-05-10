@@ -8,7 +8,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <Router-link class="nav-link active text-white" aria-current="page" to="/randomayat">Ayat Acak</Router-link>
+            <Router-link class="nav-link active text-white" aria-current="page" href="https://lukman-quran-ahmadi.netlify.app/randomayat" to="/randomayat">Ayat Acak</Router-link>
           </li>
           <li class="nav-item">
             <Router-link class="nav-link text-white" to="/imlaei">Imlaei Simple</Router-link>
